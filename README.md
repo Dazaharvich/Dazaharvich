@@ -25,7 +25,15 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **d.azaharvichp@gmail.com**
 
-- 📄 Know about my experiences [I started studying Systems Analyst. Then, in a self-taught way, I specialized in blogging, SEO, Content Marketing and social networks through a personal project for more than 3 years. To finally find my passion, programming. I am a Front End developer focused on Html, Css, JavaScript and ReactJs](I started studying Systems Analyst. Then, in a self-taught way, I specialized in blogging, SEO, Content Marketing and social networks through a personal project for more than 3 years. To finally find my passion, programming. I am a Front End developer focused on Html, Css, JavaScript and ReactJs)
+- 📄 I'm David, a Systems Analyst and Frontend Developer with 2 years of experience in HTML, CSS, JavaScript, and React. I'm currently expanding my skill set into Fullstack development, focusing on Node.js and Python to deliver end-to-end solutions.
+
+In my current role as Technical Support Specialist at a hosting company, I manage Linux servers using WHM and cPanel, handle complex incidents, and optimize environments for clients with varying technical backgrounds. This role has strengthened my diagnostic skills, effective communication, and customer-centric approach.
+
+My background in customer service and tech support has taught me how to translate complex technical concepts into clear, practical solutions, bridging the gap between technology and people.
+
+Right now, I'm specializing in cloud services and server administration, while also pursuing training in cybersecurity and ethical hacking—fields I believe are crucial for today's digital security landscape.
+
+I'm always looking for new challenges, collaborations, and opportunities to grow as a professional.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
